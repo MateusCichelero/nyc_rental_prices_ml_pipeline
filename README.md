@@ -4,6 +4,9 @@
 - Author: Mateus Cichelero
 - Date: June 2022
 
+## Link for the public W&B Project
+
+https://wandb.ai/mateuscichelero/nyc_airbnb
 
 ## Project Description
 
