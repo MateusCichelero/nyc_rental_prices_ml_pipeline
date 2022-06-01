@@ -80,7 +80,7 @@ conda.yml  MLproject  run.py
 ```
 
 You can now modify the script (``run.py``), the conda environment (``conda.yml``) and the project definition 
-(``MLproject``) as you please
+(``MLproject``) as you please.
 
 The script ``run.py`` will receive the input parameters ``parameter1``, ``parameter2``,
 ``parameter3`` and it will be called like:
